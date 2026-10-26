@@ -20,16 +20,16 @@ El objetivo principal es aplicar y comparar técnicas de aprendizaje no supervis
 4. **Interpretación de Resultados:** Análisis epidemiológico y evaluación del impacto de las variables ambientales en la propagación del virus.
 
 Algoritmo Jerárquico
-<img width="1772" height="911" alt="image" src="https://github.com/user-attachments/assets/23a4b16a-c1fe-4eae-ad9e-36e6a4f0b022" />
+<img width="1772" height="911" alt="image" src="https://github.com/user-attachments/assets/ce609bb6-edf0-441d-a126-b95a9355838a" />
 
 Algoritmo Particionante K-Means
-<img width="1384" height="563" alt="image" src="https://github.com/user-attachments/assets/745f3acd-6bf3-4011-a1a1-ee78f398b636" />
+<img width="1384" height="563" alt="image" src="https://github.com/user-attachments/assets/21d59784-9966-4f36-8f13-ad3fd9c2c327" />
 
 Algoritmo de densidad DB Scan
-<img width="1784" height="563" alt="image" src="https://github.com/user-attachments/assets/ebc5a50e-b92c-44a0-a658-ad840c9506d2" />
+<img width="1784" height="563" alt="image" src="https://github.com/user-attachments/assets/84a78914-12c0-4050-82bb-a200bf64ff8b" />
 
 Clustering probabilístico Gaussianas (GMM - Gaussian Mixture Models)
-<img width="1784" height="563" alt="image" src="https://github.com/user-attachments/assets/26988c21-dfb2-4da0-a74f-71e806fdc87d" />
+<img width="1784" height="563" alt="image" src="https://github.com/user-attachments/assets/3ec4e2e8-4cf4-4e87-a2fb-408432c12a8c" />
 
 Algoritmo	N° Clusters	% Ruido	Silueta	Davies-Bouldin
 0	Jerárquico (Ward, k=3)	3	0.0%	0.2910	1.2299
